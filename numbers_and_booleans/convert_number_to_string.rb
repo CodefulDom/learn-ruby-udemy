@@ -5,3 +5,6 @@ p str.class
 
 p str.to_i.class
 p str
+
+p str.to_f
+p str.to_f.class
