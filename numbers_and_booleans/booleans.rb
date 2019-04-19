@@ -4,3 +4,13 @@ p 10 > 12
 
 p true
 p false
+
+age = 25
+
+p age
+
+handsome = true
+stupid = false
+
+p handsome.class
+p stupid.class
