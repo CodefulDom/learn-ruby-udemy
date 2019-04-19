@@ -1,9 +1,4 @@
-number = 10
+pi = 3.14
 
-p number.class
-p number.to_s.class
-
-p number.to_f
-p number.to_f.class
-
-p 'is this working now'
+p pi.to_i
+p pi.to_i.class
