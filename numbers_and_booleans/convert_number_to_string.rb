@@ -1,10 +1,9 @@
-str = '5'
-p str
+number = 10
 
-p str.class
+p number.class
+p number.to_s.class
 
-p str.to_i.class
-p str
+p number.to_f
+p number.to_f.class
 
-p str.to_f
-p str.to_f.class
+p 'is this working now'
