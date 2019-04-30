@@ -1,5 +1,5 @@
-5.times do |i|
-  print i, ' '
+5.times do |count|
+  p "We are currently on iteration number #{count + 1}"
 end
 
-3.times { puts 'Dom is awesome' }
+3.times { p 'Dom is awesome' }
