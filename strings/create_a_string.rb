@@ -12,3 +12,8 @@ p "The length of the variable empty is #{empty.length}"
 puts
 
 p empty.class
+
+puts
+
+last_name = String.new('Hallan')
+p last_name
